@@ -24,17 +24,18 @@
 
 ### 진행 중인 프로젝트
 
-| | 프로젝트 | 스택 | 링크 |
-|---|---|---|---|
-| 🍳 | **Cookting (냉장고 부탁해)** — AI 재료 인식 레시피 추천 | Flutter · Next.js · NestJS | [naengbu.jell.kr](https://naengbu.jell.kr) |
-| 📅 | **Wecanner** — 요일별 위젯 플래너 | Flutter · iOS Widget | App Store |
-| 💕 | **Couple Planner** — 커플 일정/기념일 PWA | Next.js · Supabase | [couple-planner.jell.kr](https://couple-planner.jell.kr) |
-| 🛠️ | **[Dev Utils Hub](https://github.com/jellive/dev-utils-hub)** — 13가지 개발자 유틸리티 데스크톱 앱 | Electron · React | [dev-utils.jell.kr](https://dev-utils.jell.kr) |
-| 🍅 | **[Jellmodoro](https://github.com/jellive/jellmodoro)** — 미니멀 포모도로 타이머 | Swift / Flutter | App Store |
-| 🛡️ | **threat-crawler** — 위협 인텔리전스 플랫폼 (YARA · Sigma · DGA) | Python · Next.js | self-hosted |
-| 🏠 | **JellHub** — jell-server 통합 운영 대시보드 | Next.js · Socket.IO · Prisma | self-hosted |
-| 🔗 | **[namu_arca_linker](https://github.com/jellive/namu_arca_linker)** — 나무위키 ↔ 아카라이브 링커 | Chrome Ext · Vite | Chrome Web Store |
-| ⚾ | **[hanwha-score](https://github.com/jellive/hanwha-score)** — KBO 한화 이글스 실시간 스코어 | Chrome Extension | Chrome Web Store |
+|     | 프로젝트                                                                                                                    | 스택                         | 링크                                                     |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------- |
+| 🍳  | **Cookting (냉장고 부탁해)** — AI 재료 인식 레시피 추천                                                                     | Flutter · Next.js · NestJS   | [naengbu.jell.kr](https://naengbu.jell.kr)               |
+| 📅  | **Wecanner** — 요일별 위젯 플래너                                                                                           | Flutter · iOS Widget         | App Store                                                |
+| 💕  | **Couple Planner** — 커플 일정/기념일 PWA                                                                                   | Next.js · Supabase           | [couple-planner.jell.kr](https://couple-planner.jell.kr) |
+| 🛠️  | **[Dev Utils Hub](https://github.com/jellive/dev-utils-hub)** — 13가지 개발자 유틸리티 데스크톱 앱                          | Electron · React             | [dev-utils.jell.kr](https://dev-utils.jell.kr)           |
+| 🕹️  | **[Jell Arcade](https://github.com/jellive/jell-arcade)** — Space Survivor · Brick Breaker · Endless Runner · Tetris 모음집 | Unity 6 · WebGL · C#         | [arcade.jell.kr](https://arcade.jell.kr)                 |
+| 🍅  | **[Jellmodoro](https://github.com/jellive/jellmodoro)** — 미니멀 포모도로 타이머                                            | Swift / Flutter              | App Store                                                |
+| 🛡️  | **threat-crawler** — 위협 인텔리전스 플랫폼 (YARA · Sigma · DGA)                                                            | Python · Next.js             | self-hosted                                              |
+| 🏠  | **JellHub** — jell-server 통합 운영 대시보드                                                                                | Next.js · Socket.IO · Prisma | self-hosted                                              |
+| 🔗  | **[namu_arca_linker](https://github.com/jellive/namu_arca_linker)** — 나무위키 ↔ 아카라이브 링커                            | Chrome Ext · Vite            | Chrome Web Store                                         |
+| ⚾  | **[hanwha-score](https://github.com/jellive/hanwha-score)** — KBO 한화 이글스 실시간 스코어                                 | Chrome Extension             | Chrome Web Store                                         |
 
 전체 18개 프로젝트는 👉 **[app.jell.kr](https://app.jell.kr)**
 
